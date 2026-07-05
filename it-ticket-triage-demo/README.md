@@ -19,3 +19,5 @@ Form/UI → Classifier Agent (Groq LLM) → Severity Router (IF)
 ## Files
 - `/workflow/IT_Ticket_Triage.json` — exported n8n workflow
 - `index.html` — custom frontend for ticket submission
+
+- <img width="1852" height="827" alt="image" src="https://github.com/user-attachments/assets/8b0ff675-50b4-4268-ac09-f4c0c69e3e78" />
