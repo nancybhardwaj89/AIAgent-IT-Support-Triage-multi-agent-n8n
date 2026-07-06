@@ -72,9 +72,6 @@
             {
               "fieldLabel": "Description",
               "requiredField": true
-            },
-            {
-              "fieldLabel": "Priority Guess"
             }
           ]
         },
@@ -661,7 +658,7 @@
     "binaryMode": "separate",
     "availableInMCP": false
   },
-  "versionId": "8678a032-d3c0-4323-9918-7fbf2994aa7c",
+  "versionId": "944004a9-1a39-4a4d-9e74-724a921877ad",
   "meta": {
     "templateCredsSetupCompleted": true,
     "instanceId": "709fb63ca4545b2af3641def8cb018d3c2a0d1e21fa77e00e29ee42b89593a29"
