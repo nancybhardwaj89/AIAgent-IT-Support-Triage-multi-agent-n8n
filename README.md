@@ -117,6 +117,13 @@ This ensures the workflow is not only functional, but also safe, testable, and s
 ## n8n Workflow Diagram For Reference
 <img width="1852" height="827" alt="image" src="https://github.com/user-attachments/assets/b1d73b61-b9a2-4cc1-b5b3-9d1bc1617239" />
 
+
+## Slack and Google Sheet Screenshots
+
+<img width="1301" height="402" alt="image" src="https://github.com/user-attachments/assets/ae39b602-03bc-4271-87b6-3d31ff91f27b" />
+
+<img width="1902" height="725" alt="image" src="https://github.com/user-attachments/assets/ace066f4-b4f8-49ac-98c5-5c4da6524b13" />
+
 ---
 
 ## About
