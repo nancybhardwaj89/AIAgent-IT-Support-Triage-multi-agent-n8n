@@ -83,7 +83,19 @@ Log – Auto Path                Log – Human Path
 > Result: classified as `high` severity → routed to Slack for human approval → logged as `Human` / `Approved`
 
 ---
+## Evaluation & QA Validation
 
+To validate the workflow, I tested different categories of IT support requests:
+
+| Scenario | Expected Behavior |
+|---|---|
+| Low-risk access or WiFi request | Auto-draft response |
+| Urgent laptop/system issue | Route to human review |
+| Production/system-wide outage | Route to human review |
+| Ambiguous request with low confidence | Route to human review |
+| Non-JSON or invalid AI response | Fail safely and route to human |
+
+This ensures the workflow is not only functional, but also safe, testable, and suitable for enterprise-style AI automation.
 ## What I'd Add for Production Use
 
 - Real API integration (e.g. Azure AD/Okta) for the resolver to take verified actions instead of drafting text
